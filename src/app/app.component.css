@@ -13,21 +13,4 @@
     margin-left: 15px;
     padding-bottom: 15px;
 }
-#Register-Form {
-    margin-left: 10px;
-}
-#input-email-r {
-    background-color: white;
-    width: 200px;
-    border-radius: 15;
-    text-indent: 10px;
-}
-#input-email-r:invalid {
-    border-color: red;
-}
-#input-email-r:valid {
-    border-color: green;
-}
-#input-email-r:empty {
-    border-color: red;
-}
+
